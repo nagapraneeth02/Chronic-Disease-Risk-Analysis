@@ -1,0 +1,14 @@
+# Python compiled files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment directories
+env/
+venv/
+
+# System files (Mac/Windows)
+.DS_Store
+Thumbs.db
