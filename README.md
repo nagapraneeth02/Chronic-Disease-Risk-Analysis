@@ -12,6 +12,7 @@ Exploratory Data Analysis (EDA): Used statistical techniques and visualizations 
 Feature Engineering & Selection: Applied Principal Component Analysis (PCA), Isolation Forest for anomaly detection, and Recursive Feature Elimination (RFE) to optimize the feature set.
 Model Development: Trained multiple machine learning models (e.g., Random Forest, Gradient Boosting, XGBoost) using multi-output classification frameworks.
 Evaluation: Assessed models using accuracy and F1 score metrics to determine performance across various chronic conditions.
+
 **Key Findings**
 PCA showed that the first principal component explains over 90% of the variance in blood pressure data.
 Advanced models like XGBoost achieved high accuracy for predicting diabetes and hypertension.
