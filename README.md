@@ -1,6 +1,6 @@
 # Chronic-Disease-Risk-Analysis
 **Overview**
-This project uses advanced data analytics and machine learning to predict and understand chronic diseases such as hypertension, diabetes, heart disease, and chronic kidney disease (CKD). Starting with Kaggle’s Diabetes Prediction Dataset, the dataset was enriched with patient demographics, detailed medical history, laboratory test results, and lifestyle factors essential for healthcare predictive analysis.
+This project uses advanced data analytics and machine learning to predict and understand chronic diseases such as hypertension, diabetes, heart disease, and chronic kidney disease (CKD). Starting with Kaggle’s Diabetes Prediction Dataset "https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset" , the dataset was enriched with patient demographics, detailed medical history, laboratory test results, and lifestyle factors essential for healthcare predictive analysis.
 
 **Purpose**
 The goal is to develop multi-target classification models that provide actionable insights for early intervention strategies. By identifying key predictors and uncovering hidden trends, the project aims to support improved patient outcomes and drive strategic decision-making in healthcare.
